@@ -1,0 +1,132 @@
+/*global*/
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: arial;
+}
+p{
+    line-height: 2;
+}
+img{
+    max-width: 100%;
+}
+
+p1{background-color:cornflowerblue;}
+/*utilities*/
+.btn{
+    display: block;
+    width: 90%;
+    background-color: cornflowerblue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 10px;
+    padding: 20px;
+}
+.container{
+    width:70%;
+    margin-left:auto;
+    margin-right: auto;
+}
+.main-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+/*header*/
+.site-init{
+    background-image: url(./images/banner.jpg);
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    color:white;
+    font-family: fantasy;
+}
+.header-flex{
+    display: flex;
+    justify-content: space-around;/*horizontal*/
+    align-items: center;/*vertical*/
+    height: 150px;
+    text-decoration: aliceblue;
+    color: blue;
+    background-color: black;
+    width: 100%;
+    text-align: justify;
+}
+.secondary-header{
+    background-color: black;
+    font-family: fantasy;
+}
+.header-three{
+    width: 100%;
+    height: 200px;
+    font-family: fantasy;
+}
+.header-four{
+    height: 200px;
+    width: 100%;
+}
+/*main*/
+main{
+    width:60%;
+    margin-right: 20px;
+}
+/*blog*/
+.blog-container{
+    margin-top: 20px;
+    }
+    .blog-container h3{
+        margin-top: 20px;
+    }
+
+.blog-container p{
+        margin-top: 20px;
+    }
+    .blog-container .btn{
+        background-color: black;
+    }
+    /*contact*/
+    .form container{
+        display: flex;
+        flex-direction: column;
+    }
+    .form-inputs{
+        background-color: white;
+        padding: 20px;
+        margin-top: -50px;
+    }
+    .form-inputs .btn{
+        background-color: black;
+        padding: 10px;
+        font-size: 18px;
+        width: 100px;
+    }
+    .form-inputs div{
+        margin: 20px;
+    }
+    .form-inputs input,
+    .form-inputs textarea{
+        width: 70%;
+        padding: 5px;
+    }
+    .form-inputs label{
+        display: inline-block;
+        width: 80px;
+    }
+    /*courses*/
+    .header-four{
+            display: block;
+            width: 90%;
+            background-color: cornflowerblue;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 14px;
+            margin-top: 10px;
+            padding: 20px; 
+    }
