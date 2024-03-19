@@ -1,0 +1,13 @@
+main {
+    display: flex;
+}
+
+#list{
+    background-color: burlywood;
+    flex: 1;
+}
+
+#form{
+    background-color: aquamarine;
+    flex: 3;
+}

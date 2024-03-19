@@ -1,0 +1,13 @@
+.navbar {
+    height: 56;
+}
+
+
+.navbar h1 {
+  color: cornflowerblue;
+  margin: 0;
+}
+
+.navbar button {
+  font-weight: bold;
+}
