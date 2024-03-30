@@ -8,7 +8,7 @@ function Catalog() {
             title:"Gel",
             price: 2.85,
             category: "Hair",
-            image: "",
+            image: "748378001112.jpg",
             _id: "1",
         },
 
@@ -16,7 +16,7 @@ function Catalog() {
             title:"Dye",
             price: 6.55,
             category: "Hair",
-            image: "img2.jpg",
+            image: "dye-1.jpg",
             _id: "2",
         },
 

@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import About from './pages/About';
 import Catalog from './pages/Catalog';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Navbar></Navbar>
 
       <Catalog />
+      <About/>
 
       <Footer/>
     </div>
