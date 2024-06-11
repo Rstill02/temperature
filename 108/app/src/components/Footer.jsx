@@ -3,8 +3,8 @@ import './Footer.css';
 function Footer() {
     return (
         <div className="footer">
-            <h6>Organika Store</h6>
-            <h4> By Sergio Inzunza</h4>
+            <h6>The Potato Haven</h6>
+            <h4> By R. Still</h4>
         </div>
     );
 }

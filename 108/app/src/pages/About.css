@@ -5,3 +5,11 @@
 .about h3{
     color: aliceblue;
 }
+
+.about .box {
+    background-color: aliceblue;
+    border: 1px solid green;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+}

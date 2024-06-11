@@ -7,7 +7,7 @@
  * are usually exported 
  */
 
-import './Navbar.css';
+import "./Navbar.css";
 
 
 function Navbar() {
