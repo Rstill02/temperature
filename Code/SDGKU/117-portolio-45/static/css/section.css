@@ -1,0 +1,89 @@
+
+.about-section {
+    padding: 2rem;
+}
+
+.about-image-container {
+    width: 60%;
+}
+
+.about-image-container img{
+    width: 60%;
+}
+
+.about-description-container {
+    border: solid 1px orangered;
+    width: 60%;
+    padding: 1rem;
+}
+
+.about-description-container p{
+    margin: 1rem 0px;
+    width: 40%;
+    font-family: cursive;
+}
+
+.label-list{
+    line-height: 30px;
+    width: 70%;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 2rem;
+}
+
+/*--- Projects Section ---*/
+
+.projects-section {
+    padding: 2rem;
+}
+
+.project-card {
+    background-color: blueviolet;
+    width: 25rem;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.5rem;
+    border-radius: 1%;
+}
+
+.project-card:hover {
+    opacity: 0.5;
+    border: solid 1px var(--primary-color-300);
+}
+.project-card img {
+    width: 50%;
+}
+
+.skills-list {
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+
+a p:nth-child(2){
+    font: bolder;
+    font-size: 1.1rem;
+    margin: 0.5rem 0px;
+    color: var(--secondary-color-600);
+}
+
+a p:nth-child(3){
+font-style: italic;
+}
+
+a p:nth-child(4){
+font-style: italic;
+font-weight: bolder;
+letter-spacing: 0.2rem;
+margin-top: 0.5rem;
+}
+
+.projects-list {
+    margin: 2rem 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4rem;
+    width: 100%;
+}
