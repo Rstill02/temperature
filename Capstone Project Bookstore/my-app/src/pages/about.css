@@ -1,3 +1,15 @@
 .about {
-    background-color: green;
+    background-image: radial-gradient(blue, white, gray, yellow, black);
+    margin-top: 25px;
+    margin-bottom: 75px;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+body {background-color: navy;
+    font-family: cursive;
+    color: lightslategrey;
+
 }

@@ -1,3 +1,16 @@
 .home {
-    background-color: blue;
+    background-color: black;
+    margin: auto;
+    border: 3px solid white;   
+}
+
+.book {
+    width: 5%;
+    height: 5%;
+    padding: 10%;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
 }

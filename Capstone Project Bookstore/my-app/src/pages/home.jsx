@@ -4,7 +4,7 @@ import { demoData } from '../services/dataService';
 function Home() {
     return (
         <div className="home">
-            <h1>gshgjgfg</h1>
+            <h1>Get Lit!!</h1>
 
             <div className="list">
                 {demoData.map(rec =>

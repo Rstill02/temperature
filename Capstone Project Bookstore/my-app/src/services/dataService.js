@@ -50,7 +50,7 @@ export const demoData = [
         genre: "Young Adult",
         year: 2012,
         price: 13000.00,
-        image: "/imgs/svh.jpg"
+        image: "/imgs/logo.jpg"
     },
 
     {
@@ -60,7 +60,7 @@ export const demoData = [
         year: 2019,
         price: 11.24,
         series: "Legacy of Orisha",
-        image: "/imgs/cobb.jpg"
+        image: "/imgs/logo.jpg"
     },
 
     {
@@ -70,7 +70,7 @@ export const demoData = [
         year: 2021,
         price: 10.99,
         series: "Legacy of Orisha",
-        image: "/imgs/covv.jpg"
+        image: "/imgs/logo.jpg"
     },
 
     {
@@ -80,56 +80,70 @@ export const demoData = [
         year: 2024,
         price: 18.74,
         series: "Legacy of Orisha",
-        image: "/imgs/coaa.jpg"
-    },
-
-    {
-        title: "test 1",
-        year: 2012,
-        price: 12.34,
         image: "/imgs/logo.jpg"
     },
 
     {
-        title: "test 1",
+        title: "Angels and Demons",
+        author: "Dan Brown",
+        genre: "Thriller, Mystery, Adventure",
         year: 2012,
-        price: 12.34,
-        image: "/imgs/logo.jpg"
+        price: 15.00,
+        image: "/imgs/and.jpg"
     },
 
     {
-        title: "test 1",
+        title: "Origin",
+        author: "Dan Brown",
+        genre: "Thriller, Mystery, Adventure",
         year: 2012,
-        price: 12.34,
-        image: "/imgs/logo.jpg"
+        price: 12.00,
+        image: "/imgs/ori.jpg"
     },
 
     {
-        title: "test 1",
+        title: "Digital Fortress",
+        author: "Dan Brown",
+        genre: "Thriller, Mystery, Adventure",
         year: 2012,
-        price: 12.34,
-        image: "/imgs/logo.jpg"
+        price: 12.00,
+        image: "/imgs/dgf.jpg"
     },
 
     {
-        title: "test 1",
+        title: "The Da Vinci Code",
+        author: "Dan Brown",
+        genre: "Thriller, Mystery, Adventure",
         year: 2012,
-        price: 12.34,
-        image: "/imgs/logo.jpg"
+        price: 18.77,
+        image: "/imgs/tdvc.jpg"
     },
 
     {
-        title: "test 1",
+        title: "Inferno",
+        author: "Dan Brown",
+        genre: "Thriller, Mystery, Adventure",
         year: 2012,
-        price: 12.34,
-        image: "/imgs/logo.jpg"
+        price: 10.00,
+        image: "/imgs/inferno.jpg"
     },
 
     {
-        title: "test 1",
+        title: "The Lost Symbol",
+        author: "Dan Brown",
+        genre: "Thriller, Mystery, Adventure",
         year: 2012,
-        price: 12.34,
-        image: "/imgs/logo.jpg"
+        price: 12.88,
+        image: "/imgs/tls.jpg"
+    },
+
+    {
+        title: "Deception Point",
+        author: "Dan Brown",
+        genre: "Thriller, Mystery, Adventure",
+        year: 2012,
+        price: 8.77,
+        image: "/imgs/dp.jpg"
     },
 
     {
