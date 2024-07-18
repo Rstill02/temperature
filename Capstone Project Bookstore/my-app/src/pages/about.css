@@ -1,15 +1,16 @@
 .about {
-    background-image: radial-gradient(blue, white, gray, yellow, black);
+    background-image: radial-gradient(gray, white, black);
     margin-top: 25px;
     margin-bottom: 75px;
+
+    background-color: black;
+    
 }
 
 h1 {
-    color: antiquewhite;
+    color: black;
 }
 
-body {background-color: navy;
-    font-family: cursive;
-    color: lightslategrey;
-
+p {
+    margin: 5%
 }
