@@ -14,7 +14,7 @@ function About() {
         <p>While at work I don't have vast amounts of time to spend searching for something to listen to, so I need to find something intersting quick, fast, and in a hurry.  No site anywhere provides that.  This gave birth to Let's Get Lit!!! where synopses are in your face front and center and within 10 -15 seconds you'll know exactly if a book is for you.  Whether you prefer to read a quick summary or watch a highlight reel, Let's Get Lit!!! makes it possible.</p>
         
         <br></br>
-        <h1>Now, Let's Get Lit!!!</h1></>
+        <h2>Now, Let's Get Lit!!!</h2></>
 
     );
 }

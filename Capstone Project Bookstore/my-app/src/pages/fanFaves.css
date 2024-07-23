@@ -1,6 +1,11 @@
 .fanFaves {
-background-color: black;
+    background-image: radial-gradient(gray, white, black);
+    margin-top: 25px;
+    margin-bottom: 75px;
+
 }
 
-body {background-color: darkgreen;
-}
+body {background-color: black}
+
+
+
