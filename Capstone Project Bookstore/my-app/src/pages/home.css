@@ -5,11 +5,50 @@
 }
 
 .book {
-   font-size: 2px;
+   font-size: 1px;
    font-family: 'Times New Roman', Times, serif;
-   margin: 0%;
+   flex-direction: row;
+   margin: auto;
+   margin-top: 50px;
+   padding: 20px;
    display: inline-block;
-   width: min-content;
-   height: min-content;
-   border-radius: 3px;
+   border-radius: 3px;   
+}
+
+img {
+    width: 100px;
+}
+
+h1 {
+    font-size: medium;
+}
+
+h4 {
+    font-size: small;
+}
+
+.add-to-cart span {
+    color: red;
+    cursor: pointer;
+
+}
+
+.add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background: white;
+    font-size: small;
+    cursor: pointer;
+}
+
+.add-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background: white;
+    font-size: small;
+    cursor: pointer;
 }

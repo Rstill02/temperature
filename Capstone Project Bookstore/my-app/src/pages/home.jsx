@@ -10,14 +10,14 @@ function Home() {
                 {demoData.map(rec =>
                     <div className="book">
                         <h1>{rec.title}</h1>
-                        <h2>{rec.author}</h2>
-                        <h4>{rec.year}</h4>
-                        <h3>{rec.price}</h3>
-                        <h2>{rec.series}</h2>
-                        <h4>{rec.genre}</h4>
                         <img src={rec.image} alt="" />
                         </div>
                 )}
+            <div className="add-to-cart">Intrigued?<span>Add</span></div>
+            <div className="add-container">
+                <div className="add">Add</div>
+    
+            </div>
             </div>
         </div>
     );

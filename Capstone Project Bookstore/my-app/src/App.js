@@ -4,13 +4,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/navbar';
 import About from './pages/about';
 import Home from './pages/home';
-import fanFaves from './pages/fanFaves';
+import FanFaves from './pages/fanFaves';
 import Autobiographies from './pages/autobiographies';
-import fictionSeries from './pages/fictionSeries';
+import FictionSeries from './pages/fictionSeries';
 import Logic from './pages/logic';
 import Spiritual from './pages/spiritual';
 import Audiobooks from './pages/narrator';
-
+import LoginRegister from './pages/loginRegister';
 
 import { BrowserRouter, Routes, Route} from 'react-router-dom';
 
@@ -28,7 +28,8 @@ function App() {
         <Route path="/fictionSeries" element={<fictionSeries />} />
         <Route path="/logic" element={<Logic />} />
         <Route path="/spiritual" element={<Spiritual />} />
-        <Route path='/audiobooks' element={<Audiobooks />} />
+        <Route path="/audiobooks" element={<Audiobooks />} />
+        <Route path="/loginRegister" element={<LoginRegister />} />
       </Routes>
 
       

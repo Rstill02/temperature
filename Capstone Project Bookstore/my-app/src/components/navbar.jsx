@@ -2,6 +2,7 @@ import "./navbar.css";
 
 import {Link} from 'react-router-dom';
 
+
 function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
@@ -57,6 +58,12 @@ function Navbar() {
         <li className="nav-item">
           <Link className="nav-link active" aria-current="page" to="/narrator">
             Audiobooks Narrator Spotlight 
+            </Link>
+        </li>
+
+        <li className="nav-item">
+          <Link className="nav-link active" aria-current="page" to="/loginRegister">
+            Login/Register
             </Link>
         </li>
 
