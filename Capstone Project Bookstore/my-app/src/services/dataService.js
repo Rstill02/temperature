@@ -7,7 +7,7 @@ export const demoData = [
         year: 2012,
         price: 12.34,
         series: "Simon Riske, 1",
-        group: "fs",
+        category: "fs",
         image: "/imgs/tt.jpg"
     },
 
@@ -17,7 +17,7 @@ export const demoData = [
         year: 2012,
         price: 17.95,
         series: "Simon Riske, 2",
-        group: "fs",
+        category: "fs",
         image: "/imgs/Crown Jewel.jpg"
     },
 
@@ -27,7 +27,7 @@ export const demoData = [
         year: 2020,
         price: 13.70,
         series: "Simon Riske, 3",
-        group: "fs",
+        category: "fs",
         image: "/imgs/The Palace.jpg"
     },
 
@@ -37,7 +37,7 @@ export const demoData = [
         year: 2012,
         price: 12.34,
         series: "Simon Riske, 4",
-        group: "fs",
+        category: "fs",
         image: "/imgs/oat.jpg"
     },
 
@@ -47,7 +47,7 @@ export const demoData = [
         genre: "Young Adult",
         year: 2012,
         price: 13000.00,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/svh.jpg"
     },
 
@@ -58,7 +58,7 @@ export const demoData = [
         year: 2019,
         price: 11.24,
         series: "Legacy of Orisha",
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/cobb.jpg"
     },
 
@@ -69,7 +69,7 @@ export const demoData = [
         year: 2021,
         price: 10.99,
         series: "Legacy of Orisha",
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/covv.jpg"
     },
 
@@ -80,7 +80,7 @@ export const demoData = [
         year: 2024,
         price: 18.74,
         series: "Legacy of Orisha",
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/coaa.jpg"
     },
 
@@ -90,7 +90,7 @@ export const demoData = [
         genre: "Thriller, Mystery, Adventure",
         year: 2012,
         price: 15.00,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/and.jpg"
     },
 
@@ -100,7 +100,7 @@ export const demoData = [
         genre: "Thriller, Mystery, Adventure",
         year: 2012,
         price: 12.00,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/ori.jpg"
     },
 
@@ -110,7 +110,7 @@ export const demoData = [
         genre: "Thriller, Mystery, Adventure",
         year: 2012,
         price: 12.00,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/df.jpg"
     },
 
@@ -120,7 +120,7 @@ export const demoData = [
         genre: "Thriller, Mystery, Adventure",
         year: 2012,
         price: 18.77,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/tdvc.jpg"
     },
 
@@ -130,7 +130,7 @@ export const demoData = [
         genre: "Thriller, Mystery, Adventure",
         year: 2012,
         price: 10.00,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/inferno.jpg"
     },
 
@@ -140,7 +140,7 @@ export const demoData = [
         genre: "Thriller, Mystery, Adventure",
         year: 2012,
         price: 12.88,
-        group: "fs",
+        category: "fs",
         image: "/imgs/tls.jpg"
     },
 
@@ -150,7 +150,7 @@ export const demoData = [
         genre: "Thriller, Mystery, Adventure",
         year: 2012,
         price: 8.77,
-        group: "fs",
+        category: "fs",
         image: "/imgs/dec.jpg"
     },
 
@@ -158,7 +158,7 @@ export const demoData = [
         title: "The Lord of the Rings: The Fellowship of the Ring",
         year: 1954,
         price: 12.00,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/tfotr.jpg"
     },
 
@@ -166,7 +166,7 @@ export const demoData = [
         title: "The Lord of The Rings: The Two Towers",
         year: 1954,
         price: 10.00,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/ttt.jpg"
     },
 
@@ -174,7 +174,7 @@ export const demoData = [
         title: "The Lord of the Rings: The Return of the King",
         year: 1955,
         price: 15.00,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/trotk.jpg"
     },
 
@@ -182,7 +182,7 @@ export const demoData = [
         title: "The Hobbit",
         year: 2012,
         price: 12.88,
-        group: "ff, fs",
+        category: "ff, fs",
         image: "/imgs/hob.jpg"
     },
 
@@ -191,6 +191,7 @@ export const demoData = [
         year: 1982,
         price: 6.00,
         series: "The Belgariad",
+        category: "fs",
         image: "/imgs/pop.jpg"
     },
 
@@ -199,7 +200,7 @@ export const demoData = [
         year: 1982,
         price: 6.00,
         series: "The Belgariad",
-        group: "fs",
+        category: "fs",
         image: "/imgs/qos.jpg"
     },
 
@@ -208,7 +209,7 @@ export const demoData = [
         year: 1983,
         price: 6.00,
         series: "The Belgariad",
-        group: "fs",
+        category: "fs",
         image: "/imgs/mg.jpg"
     },
 
@@ -217,7 +218,7 @@ export const demoData = [
         year: 1984,
         price: 6.00,
         series: "The Belgariad",
-        group: "fs",
+        category: "fs",
         image: "/imgs/cow.jpg"
     },
 
@@ -226,7 +227,7 @@ export const demoData = [
         year: 1984,
         price: 6.00,
         series: "The Belgariad",
-        group: "fs",
+        category: "fs",
         image: "/imgs/eeg.jpg"
     },
 
@@ -235,7 +236,7 @@ export const demoData = [
         year: 2006,
         price: 10.00,
         series: "Power of a...",
-        group: "christian",
+        category: "christian",
         image: "/imgs/woman.jpg"
     },
 
@@ -244,7 +245,7 @@ export const demoData = [
         year: 1996,
         price: 10.00,
         series: "Power of a...",
-        group: "christian",
+        category: "christian",
         image: "/imgs/wife.jpg"
     },
 
@@ -253,7 +254,7 @@ export const demoData = [
         year: 2012,
         price: 10.00,
         series: "Power of a...",
-        group: "christian",
+        category: "christian",
         image: "/imgs/husband.jpg"
     },
 
@@ -262,7 +263,7 @@ export const demoData = [
         year: 2012,
         price: 10.00,
         series: "Power of a...",
-        group: "christian",
+        category: "christian",
         image: "/imgs/parent.jpg"
     },
 
@@ -271,7 +272,7 @@ export const demoData = [
         year: 2012,
         price: 10.00,
         series: "Power of a...",
-        group: "christian",
+        category: "christian",
         image: "/imgs/grand.jpg"
     },
 
@@ -280,7 +281,7 @@ export const demoData = [
         year: 2012,
         price: 10.00,
         series: "Power of a...",
-        group: "christian",
+        category: "christian",
         image: "/imgs/adult.jpg"
     },
 
@@ -289,7 +290,7 @@ export const demoData = [
         year: 2012,
         price: 10.00,
         series: "Power of a...",
-        group: "christian",
+        category: "christian",
         image: "/imgs/warrior.jpg"
     },
 
@@ -298,8 +299,143 @@ export const demoData = [
         year: 2012,
         price: 10.00,
         series: "Power of a...",
-        group: "christian",
+        category: "christian",
         image: "/imgs/teen.jpg"
+    },
+
+    {
+        title: "I Know Why The Caged Bird Sings",
+        author: "Maya Angelou",
+        year: 2012,
+        price: 11.00,
+        category: "auto",
+        image: "/imgs/maya.jpg"
+    },
+
+    {
+        title: "The Empereror of Sound",
+        author: "Timbaland",
+        year: 2012,
+        price: 11.00,
+        category: "auto",
+        image: "/imgs/Unknown.jpg"
+    },
+
+    {
+        title: "The Meaning of Mariah Carey",
+        author: "Mariah Carey",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/Unknown-10.jpg"
+    },
+
+    {
+        title: "Black Privilege",
+        author: "Charlamagne Tha God",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/Unknown-7.jpg"
+    },
+
+    {
+        title: "I Can't Make This Up",
+        author: "Kevin Hart",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/Unknown-2.jpg"
+    },
+
+    {
+        title: "Decision Points",
+        author: "George W. Bush",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/Unknown-11.jpg"
+    },
+
+    {
+        title: "From Pieces to Weight",
+        author: "50 Cent",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/Unknown-6.jpg"
+    },
+
+    {
+        title: "Hustle Harder Hustle Smarter",
+        author: "Curtis Jackson",
+        year: 2012,
+        price: 25.00,
+        category: "auto",
+        image: "/imgs/Unknown-5.jpg"
+    },
+
+    {
+        title: "Black Boy",
+        author: "Richard Wright",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/images-3.jpg"
+    },
+
+    {
+        title: "Every Little Step",
+        author: "Bobby Brown",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/Unknown-4.jpg"
+    },
+
+    {
+        title: "Pryor Convictions and Other Life Sentences",
+        author: "Richard Pryor",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/Unknown-8.jpg"
+    },
+
+    {
+        title: "The Autobiography of Gucci Mane",
+        author: "Gucci Mane",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/gucci.jpg"
+    },
+
+    {
+        title: "Sing To Me",
+        author: "LA Reid",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/Unknown-3.jpg"
+    },
+
+    {
+        title: "Finding Me",
+        author: "Viola Davis",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/images-2.jpg"
+    },
+
+    {
+        title: "Born A Crime",
+        author: "Trevor Noah",
+        year: 2012,
+        price: 15.00,
+        category: "auto",
+        image: "/imgs/images.jpg"
     },
 
     {
@@ -307,5 +443,140 @@ export const demoData = [
         year: 2012,
         price: 12.34,
         image: "/imgs/logo.jpg"
-    }
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
+    {
+        title: "test 1",
+        year: 2012,
+        price: 12.34,
+        image: "/imgs/logo.jpg"
+    },
+
 ];
+
